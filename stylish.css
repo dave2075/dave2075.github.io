@@ -1,0 +1,24 @@
+body
+{
+	background-image: url(leecube.gif);
+	font-family: "comic sans ms";
+	color: #ffffff;
+}
+
+
+#wrapper
+{
+	width: 700px;
+	background-color: #551111;
+	margin-left: auto;
+	margin-right:auto;
+	padding:15px;
+}
+
+.logo
+{
+	width: 50%;
+	margin-left : auto;
+	margin-right : auto;
+	padding-left: 50px;
+}
