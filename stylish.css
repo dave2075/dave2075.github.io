@@ -17,6 +17,20 @@ body
 	padding:15px;
 }
 
+#mydiv {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+}
+
+#mydivheader {
+
+  cursor: move;
+  z-index: 10;
+
+  color: #fff;
+}
+
 .logo
 {
 	background-color: #000000;
@@ -26,4 +40,11 @@ body
 	
 	border: outset 15px;
 }
-
+.theright
+{
+	float:right;
+	margin-left:auto;
+	margin-right:15px;
+	padding:10px;
+	border:solid 1px #000000;
+}
